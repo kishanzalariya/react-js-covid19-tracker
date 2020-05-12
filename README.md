@@ -1,7 +1,7 @@
 ## COVID19 Tracker
 
 ## Introduction
-I created a full COVID-19 Tracker.  going to use React, Charts.JS and Material UI.
+I created a full COVID-19 Tracker.
 Using, 
 	<ul>
 		<li>React</li>
