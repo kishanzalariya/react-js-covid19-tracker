@@ -1,6 +1,5 @@
 ## COVID19 Tracker
 
-## Introduction
 I created a full COVID-19 Tracker.
 Using, 
 	<ul>
