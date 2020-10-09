@@ -16,4 +16,3 @@ API used: https://covid19.mathdro.id/api
 ```
 npm i && npm start
 ```
-## [Live Site](https://covid19trackerbykishan.000webhostapp.com/)
